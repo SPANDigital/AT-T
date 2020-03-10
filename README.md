@@ -1,2 +1,2 @@
-# AT-T
-This is the Repo for AT&amp;T
+# recommendation-engine
+This is the Repo for Recommendation Engine
